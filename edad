@@ -13,5 +13,5 @@
             echo "Eres menor de edad";
         }
         ?>
-    </body>
+    </body> 
 </html>
